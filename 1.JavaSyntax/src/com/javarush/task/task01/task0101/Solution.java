@@ -9,3 +9,4 @@ public class Solution {
         System.out.println("Я думаю, быть программистом круто");
     }
 }
+
